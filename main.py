@@ -14,3 +14,6 @@ with open("sample_data.csv", mode="w", newline="") as file:
     writer.writerows(data)
 
 print("CSV file 'sample_data.csv' created successfully.")
+
+print("Reading from CSV file:")
+print("Name, Age, Country")
