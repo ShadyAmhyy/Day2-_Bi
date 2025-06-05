@@ -3,8 +3,9 @@ Alice,30,USA
 Bob,25,UK
 Charlie,35,Canada
 ,,
-,,
+ahmed adel ,25,sohag
 shady,25,Sohag
+<<<<<<< HEAD
 ,,
 ,,
 ,,
@@ -12,3 +13,6 @@ shady,25,Sohag
 ,,
 ,,
 shhhhh,1111,aaaaa
+=======
+ahmed adel ,25,sohag
+>>>>>>> 721249a7224ffc85071709011e9b901fdfd982c0
