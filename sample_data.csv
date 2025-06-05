@@ -2,17 +2,17 @@ Name,Age,Country
 Alice,30,USA
 Bob,25,UK
 Charlie,35,Canada
-,,
+sameh,44,masr
 ahmed adel ,25,sohag
 shady,25,Sohag
-<<<<<<< HEAD
-,,
-,,
-,,
+<<<<<<< HEAD,,
+sameh,51,masr
+sameh,51,masr
+sameh,51,masr
 ,,
 ,,
 ,,
 shhhhh,1111,aaaaa
-=======
+=======,,
 ahmed adel ,25,sohag
->>>>>>> 721249a7224ffc85071709011e9b901fdfd982c0
+>>>>>>> 721249a7224ffc85071709011e9b901fdfd982c0,,
